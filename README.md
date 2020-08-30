@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a sophomore at Vanderbilt, studying a combination of Math, Computer Science, and Economics. I enjoy solving problems and creating things, as well as the learning process that helps me solve harder problems and create better things. 
+I am a sophomore at Vanderbilt, studying a combination of Math, Computer Science, and Economics. I enjoy solving problems, making things, and learning what helps me solve harder problems and make better things. 
 
 📫 If you want to talk: saydolimkhon@gmail.com 
 
