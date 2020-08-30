@@ -4,4 +4,4 @@ I am a sophomore at Vanderbilt, studying a combination of Math, Computer Science
 
 📫 If you want to talk: saydolimkhon@gmail.com 
 
-![Saydolimkhon's github stats](https://github-readme-stats.vercel.app/api?username=saydus&show_icons=true&hide=stars&theme=vue)
+![Saydolimkhon's github stats](https://github-readme-stats.vercel.app/api?username=saydus&show_icons=true&hide=stars,issues&theme=vue)
